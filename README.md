@@ -12,8 +12,6 @@
 
 ![Java](https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white)
 
-<img src="https://img.shields.io/badge/Java-CD5050?style=flat-square&logo=Java&logoColor=white"/></a>
-
 <h3>FrontEnd</h3>
 
 

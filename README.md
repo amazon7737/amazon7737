@@ -10,7 +10,7 @@
 
 <h3>BackEnd</h3>
 
-<img src="https://img.shields.io/badge/Java-CD5050?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp
+<img src="https://img.shields.io/badge/Java-CD5050?style=flat-square&logo=Java&logoColor=white"/></a>
 
 <h3>FrontEnd</h3>
 

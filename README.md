@@ -5,6 +5,7 @@
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=amazon7737)](https://solved.ac/amazon7737)
 
+
 <!--
 **amazon7737/amazon7737** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

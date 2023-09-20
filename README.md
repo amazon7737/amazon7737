@@ -8,6 +8,8 @@
   </div>
 
 <div aline = center>  
+  
 ![image](https://github.com/amazon7737/amazon7737/assets/76634341/96ffd546-a103-4a03-80ec-ba177259b28c)
+
 </div>
 

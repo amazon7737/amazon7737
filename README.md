@@ -1,4 +1,4 @@
-![spring](https://github.com/amazon7737/amazon7737/assets/76634341/ad5be8b5-930d-4055-8a12-d65aa96ae0b4)<div align = center> <h2>🙌</h2></div>
+<div align = center> <h2>🙌</h2></div>
 
 <div align = center>
   

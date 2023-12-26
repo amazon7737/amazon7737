@@ -1,4 +1,6 @@
 <div align = center> <h2>🙌</h2></div>
+<div align = center> ![image](https://github.com/amazon7737/amazon7737/assets/76634341/4b088bb4-b697-4c70-8f10-39b3db2ea2d3)
+</div>
 
 <div align = center>
   
@@ -13,5 +15,4 @@
 </div>
 
 
-![image](https://github.com/amazon7737/amazon7737/assets/76634341/4b088bb4-b697-4c70-8f10-39b3db2ea2d3)
 

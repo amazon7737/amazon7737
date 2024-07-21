@@ -1,3 +1,3 @@
 ### 🙂 김강민(Kangmin Kim)
 
-<img src = "https://github.com/user-attachments/assets/93acbcdc-4f62-45f6-9705-79cc0aaaaae1" width = "900"/>
+<img src = "https://github.com/user-attachments/assets/3ad88a09-040b-4e0e-8aac-4181005a3a80" width = "900"/>

@@ -1,4 +1,4 @@
-### 🙂 김강민(Kangmin Kim)
+### 🙂
 
 <div style = "display:flex;">
 <img src="https://img.shields.io/badge/SpringBoot-white?style=flat-square&logo=springboot">

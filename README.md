@@ -11,12 +11,12 @@
 </div>
 
 <div style = "display:flex;">
-<img src="https://img.shields.io/badge/Mysql-white?style=flat-square&logo=mysql-navy">
-<img src="https://img.shields.io/badge/MariaDB-white?style=flat-square&logo=mariadb-black">
+<img src="https://img.shields.io/badge/Mysql-white?style=flat-square&logo=mysql">
+<img src="https://img.shields.io/badge/MariaDB-white?style=flat-square&logo=mariadb">
 </div>
 
 <div style = "display:flex;">
-<img src="https://img.shields.io/badge/Java-white?style=flat-square&logo=java">
+<img src="https://img.shields.io/badge/Java-navy?style=flat-square&logo=java">
 </div>
 
 <div style = "display:flex;">

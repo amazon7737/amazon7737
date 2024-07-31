@@ -17,7 +17,7 @@
 </div>
 
 <div style = "display:flex;">
-<img src="https://img.shields.io/badge/Java-white?style=flat-square&logo=java&logo=openjdk&logoColor=black">
+<img src="https://img.shields.io/badge/Java-white?style=flat-squarelogo=openjdk&logoColor=black>
 </div>
 
 <div style = "display:flex;">

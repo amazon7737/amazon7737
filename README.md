@@ -16,11 +16,11 @@
 </div>
 
 <div style = "display:flex;">
-<img src="https://img.shields.io/badge/Java-blue?style=flat-square&logo=java">
+<img src="https://img.shields.io/badge/Java-white?style=flat-square&logo=java">
 </div>
 
 <div style = "display:flex;">
-<img src="https://img.shields.io/badge/linux-white?style=flat-square&logo=linux">
+<img src="https://img.shields.io/badge/linux-white?style=flat-square&logo=linux-black">
 <img src="https://img.shields.io/badge/docker-white?style=flat-square&logo=docker">
 </div>
 

@@ -1,7 +1,8 @@
 ### 🙂
 
 <div style = "display:flex;">
-<img src="https://img.shields.io/badge/AWS_ECS-white?style=flat-square&logo=amazonaws">  
+<img src="https://img.shields.io/badge/AWS_ECS-333333?style=flat-square&logo=amazonaws">  
+<img src="https://img.shields.io/badge/Oracle-white?style=flat-square&logo=amazonaws">
 </div>
 
 <div style = "display:flex;">

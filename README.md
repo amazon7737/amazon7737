@@ -1,6 +1,10 @@
 ### 🙂
 
 <div style = "display:flex;">
+<img src="https://img.shields.io/badge/AWS_ECS-white?style=flat-square&logo=amazonaws">  
+</div>
+
+<div style = "display:flex;">
 <img src="https://img.shields.io/badge/SpringBoot-white?style=flat-square&logo=springboot">
 <img src="https://img.shields.io/badge/SpringSecurity-white?style=flat-square&logo=springsecurity">
 <img src="https://img.shields.io/badge/JPA-white?style=flat-square&logo=JPA">

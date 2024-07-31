@@ -1,18 +1,18 @@
 ### 🙂
 
 <div style = "display:flex;">
-<img src="https://img.shields.io/badge/AWS_ECS-black?style=flat-square&logo=amazonaws">  
+<img src="https://img.shields.io/badge/AWS_ECS-white?style=flat-square&logo=amazonaws">  
 </div>
 
 <div style = "display:flex;">
 <img src="https://img.shields.io/badge/SpringBoot-white?style=flat-square&logo=springboot">
 <img src="https://img.shields.io/badge/SpringSecurity-white?style=flat-square&logo=springsecurity">
-<img src="https://img.shields.io/badge/JPA-white?style=flat-square&logo=JPA">
+<img src="https://img.shields.io/badge/JPA-white?style=flat-square&logo=spring">
 </div>
 
 <div style = "display:flex;">
-<img src="https://img.shields.io/badge/Mysql-white?style=flat-square&logo=mysql">
-<img src="https://img.shields.io/badge/MariaDB-white?style=flat-square&logo=mariadb">
+<img src="https://img.shields.io/badge/Mysql-white?style=flat-square&logo=mysql-navy">
+<img src="https://img.shields.io/badge/MariaDB-white?style=flat-square&logo=mariadb-black">
 </div>
 
 <div style = "display:flex;">

@@ -13,7 +13,7 @@
 
 <div style = "display:flex;">
 <img src="https://img.shields.io/badge/Mysql-white?style=flat-square&logo=mysql">
-<img src="https://img.shields.io/badge/MariaDB-white?style=flat-square&logo=mariadb&logoColor=black">
+<img src="https://img.shields.io/badge/MariaDB-white?style=flat-square&logo=mariadb&logoColor=C0765A">
 </div>
 
 <div style = "display:flex;">

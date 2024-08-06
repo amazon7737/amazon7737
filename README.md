@@ -25,4 +25,4 @@
 <img src="https://img.shields.io/badge/docker-white?style=flat-square&logo=docker">
 </div>
 
-<img src = "https://github.com/user-attachments/assets/3ad88a09-040b-4e0e-8aac-4181005a3a80" width = "900"/>
+![image](https://github.com/user-attachments/assets/c87a40b7-53f6-42a0-b983-382609d97d7b)

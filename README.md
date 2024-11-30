@@ -1,5 +1,4 @@
 
-개발하는 것이 재미있는 개발자 김강민입니다. 🙂
 
 <div style = "display:flex;">
 <img src="https://img.shields.io/badge/AWS_ECS-white?style=flat-square&logo=amazonaws">  

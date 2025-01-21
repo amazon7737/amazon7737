@@ -18,4 +18,4 @@
 <img src="https://img.shields.io/badge/linux-white?style=flat-square&logo=linux&logoColor=333333">
 <img src="https://img.shields.io/badge/docker-white?style=flat-square&logo=docker">
 </div>
-<hr>
+

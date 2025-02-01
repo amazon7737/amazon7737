@@ -12,6 +12,8 @@ highly interested in the Spring Framework<img width = 32 height = auto src="http
 building backend services enjoyable
   
 </div>
+<div style = "display:flex;">
 
 ![image](https://github.com/user-attachments/assets/41c9db0b-8000-4427-a3f6-7d0952450da4)
 
+</div>

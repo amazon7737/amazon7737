@@ -10,6 +10,5 @@ I am highly interested in the Spring Framework<img width = 35 height = auto src=
 </div>
 
 <div style = "display:flex;">
-
 I find building backend services enjoyable.
 </div>

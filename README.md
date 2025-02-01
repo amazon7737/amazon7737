@@ -4,7 +4,16 @@
 </div>
 
 ---
+<div style = "display:flex;">
+  I am a developer living in South Korea.
+</div>
 
-I am a developer living in South Korea. \n
+<div style = "display:flex;">
+
 I am highly interested in the Spring Framework.
+</div>
+
+<div style = "display:flex;">
+
 I find building backend services enjoyable.
+</div>

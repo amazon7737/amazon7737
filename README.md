@@ -13,5 +13,5 @@ building backend services enjoyable
 </div>
 
 <div align = "right">
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%233DA6C8&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=%F0%9F%8D%80&edge_flat=false"/></a>
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Famazon7737%2Fhit-counter&count_bg=%233DA6C8&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=%F0%9F%8D%80&edge_flat=false"/></a>
 </div>

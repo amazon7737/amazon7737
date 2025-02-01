@@ -1,6 +1,6 @@
 
 <div style = "display:flex;">
-  I am a developer living in South Korea.
+  I am a developer living in South Korea 🇰🇷
 </div>
 
 <div style = "display:flex;">
@@ -10,5 +10,5 @@ highly interested in the Spring Framework<img width = 35 height = auto src="http
 </div>
 
 <div style = "display:flex;">
-building backend services enjoyable.
+building backend services enjoyable
 </div>

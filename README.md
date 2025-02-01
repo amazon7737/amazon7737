@@ -5,6 +5,6 @@
 
 ---
 
-I am a developer living in South Korea.
+I am a developer living in South Korea. \n
 I am highly interested in the Spring Framework.
 I find building backend services enjoyable.

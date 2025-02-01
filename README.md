@@ -1,10 +1,5 @@
 
 <div style = "display:flex;">
-</div>
-
----
-<div style = "display:flex;">
-  
   I am a developer living in South Korea.
 </div>
 

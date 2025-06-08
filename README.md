@@ -5,4 +5,4 @@ highly interested in the Spring Framework<img width = 32 height = auto src="http
 <br/><br/>
 building backend services enjoyable <br/>
 
-<img src = "https://github.com/user-attachments/assets/a683c575-08d8-45ec-bebe-0d4de9d8a454" width = "300px" height="auto"/>
+![image](https://github.com/user-attachments/assets/872f2a76-5aab-41b5-93b7-4cac344020d5)
